@@ -16,7 +16,7 @@ Clone the repository:
 # To run the application
 -------------------------
 1.  $ cd Studentmanager
-2. install maven: https://maven.apache.org/download.cgi
+2. install maven: https://maven.apache.org/download.cgi //
     On many operating systems, Maven can be installed with a package manager. If you use OSX Homebrew, try 'brew install maven'. Ubuntu users can run 'sudo apt-get install maven'. Windows users with Chocolatey can run 'choco install maven' from an elevated (administrator) prompt.
 3.  $ mvn spring-boot: run
 4. Open localhost:8080 in your explorer
