@@ -1,7 +1,10 @@
-# Uebung
+# Spring web application
+-------------------------
 
-#Prerequisites
-
+# Prerequisites
+----------------
 - hallo
--
--
+
+# To get the code
+------------------
+$ git clone
