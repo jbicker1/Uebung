@@ -1,6 +1,6 @@
 # Spring web application
 -------------------------
-This application provides a registration service for students to apply for information science studies as well as an overview of the students for the admission board. The students can register with their name and e-mail address and they have the possibility to provide a link with whom third parties can upload a recommendation letter. For the employees of the admission board a login page is provided. After having logged in, they can see an overview of all student and are able to set the status for each student on ‘accepted’ or ‘rejected’. The student then receives an e-mail.
+This application provides a registration service for students to apply for information science studies as well as an overview of the students for the admission board. The students can register with their name and e-mail address and they have the possibility to provide a link with whom third parties can upload a recommendation letter. For the employees of the admission board a login page is provided. After having logged in, they can see an overview of all students and are able to set the status for each student on ‘accepted’ or ‘rejected’. The student then receives an e-mail.
 
 # Prerequisites
 ----------------
